@@ -1,4 +1,4 @@
-name: Main Taski workflow  #кукуку
+name: Main Taski workflow  #кукукуку
 
 on:
   push:
